@@ -29,7 +29,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center font-prompt">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-3xl p-4">
         {/* Withdraw Section */}
         <div className="bg-white shadow-md rounded-lg p-6">
